@@ -1,0 +1,1 @@
+print("jai ram ji ki")
